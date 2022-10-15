@@ -1,0 +1,8 @@
+Vue reference notes:
+---
+@click="" == v-on:click=""
+---
+v-if vs v-show
+v-if = insert and remote from DOM (more performance intensive)
+v-show = only use css (use to repeated code interations)
+---
